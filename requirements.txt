@@ -1,0 +1,42 @@
+# Core
+numpy
+pandas
+pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# App
+streamlit
+
+# Computer Vision
+opencv-python
+ultralytics
+
+# Generative AI
+torch
+diffusers
+transformers>=4.35.0
+accelerate
+
+# Recommendation & NLP
+scikit-learn>=1.3.0
+sentence-transformers
+
+# Conversational AI / RAG
+langchain
+langchain-community
+chromadb
+
+# HuggingFace / Try-On
+gradio_client
+
+# Database & Storage
+sqlalchemy
+psycopg2-binary
+boto3
+
+# Utilities
+python-dotenv
+requests

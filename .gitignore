@@ -1,0 +1,28 @@
+# Claude Code
+.claude/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Data (large files)
+data/raw/
+data/processed/*.zip
+data/chroma_db/
+
+# Generated outputs
+data/generated_outfits/
+
+# Models
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
